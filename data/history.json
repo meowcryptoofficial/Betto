@@ -4215,5 +4215,251 @@
     "correctscore_pick_status": "unresolved",
     "actual_score": null,
     "checked_at": "2026-10-01T14:02:27.181594+00:00"
+  },
+  {
+    "match_id": "aps:1528916",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Azerbaijan",
+    "away_team": "Liechtenstein",
+    "home_team_id": "aps:1096",
+    "away_team_id": "aps:1107",
+    "match_date": "2026-10-01T16:00:00+00:00",
+    "confidence_score_at_prediction": 48,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 73.5,
+      "fair_odds": 1.36,
+      "reliability_score": 60,
+      "market_label": "Azerbaijan Win or Liechtenstein Win"
+    },
+    "best_pick_status": "incorrect",
+    "high_odds_pick": null,
+    "high_odds_pick_status": "no_pick",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "0-0",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528918",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Greece",
+    "away_team": "Netherlands",
+    "home_team_id": "aps:1117",
+    "away_team_id": "aps:1118",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 72,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 76.0,
+      "fair_odds": 1.32,
+      "reliability_score": 75,
+      "market_label": "Greece Win or Netherlands Win"
+    },
+    "best_pick_status": "incorrect",
+    "high_odds_pick": {
+      "market": "Both Teams to Score - Yes",
+      "probability_pct": 50.1,
+      "fair_odds": 2.0,
+      "reliability_score": 75,
+      "market_label": "BTTS - Yes"
+    },
+    "high_odds_pick_status": "correct",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "2-2",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528920",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Wales",
+    "away_team": "Norway",
+    "home_team_id": "aps:767",
+    "away_team_id": "aps:1090",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 80,
+    "best_pick": {
+      "market": "Over 2.5 Goals",
+      "probability_pct": 76.7,
+      "fair_odds": 1.3,
+      "reliability_score": 72,
+      "market_label": "Over 2.5 Goals"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": {
+      "market": "Away Win",
+      "probability_pct": 46.7,
+      "fair_odds": 2.14,
+      "reliability_score": 72,
+      "market_label": "Norway Win"
+    },
+    "high_odds_pick_status": "incorrect",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "2-1",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528922",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Israel",
+    "away_team": "Kosovo",
+    "home_team_id": "aps:1116",
+    "away_team_id": "aps:1111",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 72,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 76.2,
+      "fair_odds": 1.31,
+      "reliability_score": 70,
+      "market_label": "Israel Win or Kosovo Win"
+    },
+    "best_pick_status": "incorrect",
+    "high_odds_pick": {
+      "market": "Double Chance (Home/Draw)",
+      "probability_pct": 43.7,
+      "fair_odds": 2.29,
+      "reliability_score": 70,
+      "market_label": "Israel Win or Draw"
+    },
+    "high_odds_pick_status": "correct",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "0-0",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1545607",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Malta",
+    "away_team": "Gibraltar",
+    "home_team_id": "aps:1112",
+    "away_team_id": "aps:1093",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 78,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 72.8,
+      "fair_odds": 1.37,
+      "reliability_score": 74,
+      "market_label": "Malta Win or Gibraltar Win"
+    },
+    "best_pick_status": "incorrect",
+    "high_odds_pick": {
+      "market": "Under 2.5 Goals",
+      "probability_pct": 44.3,
+      "fair_odds": 2.26,
+      "reliability_score": 74,
+      "market_label": "Under 2.5 Goals"
+    },
+    "high_odds_pick_status": "correct",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "1-1",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528917",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Germany",
+    "away_team": "Serbia",
+    "home_team_id": "aps:25",
+    "away_team_id": "aps:14",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 80,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 71.9,
+      "fair_odds": 1.39,
+      "reliability_score": 73,
+      "market_label": "Germany Win or Serbia Win"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": {
+      "market": "Under 2.5 Goals",
+      "probability_pct": 47.9,
+      "fair_odds": 2.09,
+      "reliability_score": 73,
+      "market_label": "Under 2.5 Goals"
+    },
+    "high_odds_pick_status": "correct",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "2-0",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528919",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Denmark",
+    "away_team": "Portugal",
+    "home_team_id": "aps:21",
+    "away_team_id": "aps:27",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 62,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 73.9,
+      "fair_odds": 1.35,
+      "reliability_score": 68,
+      "market_label": "Denmark Win or Portugal Win"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": null,
+    "high_odds_pick_status": "no_pick",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "2-4",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1528921",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Rep. Of Ireland",
+    "away_team": "Austria",
+    "home_team_id": "aps:776",
+    "away_team_id": "aps:775",
+    "match_date": "2026-10-01T18:45:00+00:00",
+    "confidence_score_at_prediction": 60,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 75.3,
+      "fair_odds": 1.33,
+      "reliability_score": 64,
+      "market_label": "Rep. Of Ireland Win or Austria Win"
+    },
+    "best_pick_status": "incorrect",
+    "high_odds_pick": null,
+    "high_odds_pick_status": "no_pick",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "2-2",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1520900",
+    "competition": "Serie B (Brazil)",
+    "home_team": "Athletic Club",
+    "away_team": "Sport Recife",
+    "home_team_id": "aps:13975",
+    "away_team_id": "aps:123",
+    "match_date": "2026-10-01T23:30:00+00:00",
+    "confidence_score_at_prediction": 66,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 73.9,
+      "fair_odds": 1.35,
+      "reliability_score": 68,
+      "market_label": "Athletic Club Win or Sport Recife Win"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": null,
+    "high_odds_pick_status": "no_pick",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "1-2",
+    "checked_at": "2026-10-03T20:50:24.356511+00:00"
   }
 ]
