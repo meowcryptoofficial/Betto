@@ -4461,5 +4461,65 @@
     "correctscore_pick_status": "no_pick",
     "actual_score": "1-2",
     "checked_at": "2026-10-03T20:50:24.356511+00:00"
+  },
+  {
+    "match_id": "aps:1520903",
+    "competition": "Serie B (Brazil)",
+    "home_team": "Botafogo SP",
+    "away_team": "Vila Nova",
+    "home_team_id": "aps:2618",
+    "away_team_id": "aps:142",
+    "match_date": "2026-10-03T21:30:00+00:00",
+    "confidence_score_at_prediction": 100,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 72.7,
+      "fair_odds": 1.37,
+      "reliability_score": 83,
+      "market_label": "Botafogo SP Win or Vila Nova Win"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": {
+      "market": "Under 2.5 Goals",
+      "probability_pct": 44.7,
+      "fair_odds": 2.24,
+      "reliability_score": 83,
+      "market_label": "Under 2.5 Goals"
+    },
+    "high_odds_pick_status": "correct",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "0-1",
+    "checked_at": "2026-10-05T01:25:35.296856+00:00"
+  },
+  {
+    "match_id": "fdo:554940",
+    "competition": "Campeonato Brasileiro Série A (Brazil)",
+    "home_team": "CA Mineiro",
+    "away_team": "RB Bragantino",
+    "home_team_id": "fdo:1766",
+    "away_team_id": "fdo:4286",
+    "match_date": "2026-10-03T21:30:00Z",
+    "confidence_score_at_prediction": 100,
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 73.0,
+      "fair_odds": 1.37,
+      "reliability_score": 84,
+      "market_label": "CA Mineiro Win or RB Bragantino Win"
+    },
+    "best_pick_status": "correct",
+    "high_odds_pick": {
+      "market": "Over 2.5 Goals",
+      "probability_pct": 49.6,
+      "fair_odds": 2.02,
+      "reliability_score": 84,
+      "market_label": "Over 2.5 Goals"
+    },
+    "high_odds_pick_status": "incorrect",
+    "correctscore_pick": null,
+    "correctscore_pick_status": "no_pick",
+    "actual_score": "1-0",
+    "checked_at": "2026-10-05T01:25:35.296856+00:00"
   }
 ]

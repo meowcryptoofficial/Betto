@@ -4688,6 +4688,70 @@
     "correctscore_pick_status": "no_pick"
   },
   {
+    "match_id": "aps:1520903",
+    "competition": "Serie B (Brazil)",
+    "home_team": "Botafogo SP",
+    "away_team": "Vila Nova",
+    "home_team_id": "aps:2618",
+    "away_team_id": "aps:142",
+    "season": 2026,
+    "match_date": "2026-10-03T21:30:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 72.7,
+      "fair_odds": 1.37,
+      "reliability_score": 83,
+      "market_label": "Botafogo SP Win or Vila Nova Win"
+    },
+    "confidence_score_at_prediction": 100,
+    "high_odds_pick": {
+      "market": "Under 2.5 Goals",
+      "probability_pct": 44.7,
+      "fair_odds": 2.24,
+      "reliability_score": 83,
+      "market_label": "Under 2.5 Goals"
+    },
+    "correctscore_pick": null,
+    "status": "correct",
+    "actual_score": "0-1",
+    "checked_at": "2026-10-05T01:25:35.296856+00:00",
+    "best_pick_status": "correct",
+    "high_odds_pick_status": "correct",
+    "correctscore_pick_status": "no_pick"
+  },
+  {
+    "match_id": "fdo:554940",
+    "competition": "Campeonato Brasileiro Série A (Brazil)",
+    "home_team": "CA Mineiro",
+    "away_team": "RB Bragantino",
+    "home_team_id": "fdo:1766",
+    "away_team_id": "fdo:4286",
+    "season": 2026,
+    "match_date": "2026-10-03T21:30:00Z",
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 73.0,
+      "fair_odds": 1.37,
+      "reliability_score": 84,
+      "market_label": "CA Mineiro Win or RB Bragantino Win"
+    },
+    "confidence_score_at_prediction": 100,
+    "high_odds_pick": {
+      "market": "Over 2.5 Goals",
+      "probability_pct": 49.6,
+      "fair_odds": 2.02,
+      "reliability_score": 84,
+      "market_label": "Over 2.5 Goals"
+    },
+    "correctscore_pick": null,
+    "status": "correct",
+    "actual_score": "1-0",
+    "checked_at": "2026-10-05T01:25:35.296856+00:00",
+    "best_pick_status": "correct",
+    "high_odds_pick_status": "incorrect",
+    "correctscore_pick_status": "no_pick"
+  },
+  {
     "match_id": "fdo:564685",
     "competition": "Primera Division (Spain)",
     "home_team": "Levante UD",
@@ -4775,27 +4839,114 @@
     "checked_at": null
   },
   {
-    "match_id": "aps:1520903",
-    "competition": "Serie B (Brazil)",
-    "home_team": "Botafogo SP",
-    "away_team": "Vila Nova",
-    "home_team_id": "aps:2618",
-    "away_team_id": "aps:142",
+    "match_id": "aps:1545611",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Cyprus",
+    "away_team": "Latvia",
+    "home_team_id": "aps:1106",
+    "away_team_id": "aps:1092",
     "season": 2026,
-    "match_date": "2026-10-03T21:30:00+00:00",
+    "match_date": "2026-10-05T16:00:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Draw)",
+      "probability_pct": 74.1,
+      "fair_odds": 1.35,
+      "reliability_score": 72,
+      "market_label": "Cyprus Win or Draw"
+    },
+    "confidence_score_at_prediction": 78,
+    "high_odds_pick": {
+      "market": "Both Teams to Score - Yes",
+      "probability_pct": 48.0,
+      "fair_odds": 2.08,
+      "reliability_score": 72,
+      "market_label": "BTTS - Yes"
+    },
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1569952",
+    "competition": "Segunda División (Spain)",
+    "home_team": "Cordoba",
+    "away_team": "Tenerife",
+    "home_team_id": "aps:713",
+    "away_team_id": "aps:719",
+    "season": 2026,
+    "match_date": "2026-10-05T18:30:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Draw)",
+      "probability_pct": 75.4,
+      "fair_odds": 1.33,
+      "reliability_score": 76,
+      "market_label": "Cordoba Win or Draw"
+    },
+    "confidence_score_at_prediction": 88,
+    "high_odds_pick": {
+      "market": "Over 2.5 Goals",
+      "probability_pct": 48.3,
+      "fair_odds": 2.07,
+      "reliability_score": 76,
+      "market_label": "Over 2.5 Goals"
+    },
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528950",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Montenegro",
+    "away_team": "Armenia",
+    "home_team_id": "aps:1109",
+    "away_team_id": "aps:1094",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
+    "best_pick": {
+      "market": "Over 2.5 Goals",
+      "probability_pct": 62.9,
+      "fair_odds": 1.59,
+      "reliability_score": 74,
+      "market_label": "Over 2.5 Goals"
+    },
+    "confidence_score_at_prediction": 76,
+    "high_odds_pick": {
+      "market": "Both Teams to Score - No",
+      "probability_pct": 41.0,
+      "fair_odds": 2.44,
+      "reliability_score": 74,
+      "market_label": "BTTS - No"
+    },
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528946",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Ukraine",
+    "away_team": "Hungary",
+    "home_team_id": "aps:772",
+    "away_team_id": "aps:769",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
     "best_pick": {
       "market": "Double Chance (Home/Away)",
-      "probability_pct": 72.7,
-      "fair_odds": 1.37,
-      "reliability_score": 83,
-      "market_label": "Botafogo SP Win or Vila Nova Win"
+      "probability_pct": 76.4,
+      "fair_odds": 1.31,
+      "reliability_score": 73,
+      "market_label": "Ukraine Win or Hungary Win"
     },
-    "confidence_score_at_prediction": 100,
+    "confidence_score_at_prediction": 64,
     "high_odds_pick": {
       "market": "Under 2.5 Goals",
-      "probability_pct": 44.7,
-      "fair_odds": 2.24,
-      "reliability_score": 83,
+      "probability_pct": 49.3,
+      "fair_odds": 2.03,
+      "reliability_score": 73,
       "market_label": "Under 2.5 Goals"
     },
     "correctscore_pick": null,
@@ -4804,28 +4955,209 @@
     "checked_at": null
   },
   {
-    "match_id": "fdo:554940",
-    "competition": "Campeonato Brasileiro Série A (Brazil)",
-    "home_team": "CA Mineiro",
-    "away_team": "RB Bragantino",
-    "home_team_id": "fdo:1766",
-    "away_team_id": "fdo:4286",
+    "match_id": "aps:1528945",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Italy",
+    "away_team": "Türkiye",
+    "home_team_id": "aps:768",
+    "away_team_id": "aps:777",
     "season": 2026,
-    "match_date": "2026-10-03T21:30:00Z",
+    "match_date": "2026-10-05T18:45:00+00:00",
     "best_pick": {
       "market": "Double Chance (Home/Away)",
-      "probability_pct": 73.0,
-      "fair_odds": 1.37,
-      "reliability_score": 84,
-      "market_label": "CA Mineiro Win or RB Bragantino Win"
+      "probability_pct": 75.0,
+      "fair_odds": 1.33,
+      "reliability_score": 75,
+      "market_label": "Italy Win or Türkiye Win"
     },
-    "confidence_score_at_prediction": 100,
+    "confidence_score_at_prediction": 78,
+    "high_odds_pick": null,
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528944",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "France",
+    "away_team": "Belgium",
+    "home_team_id": "aps:2",
+    "away_team_id": "aps:1",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Draw)",
+      "probability_pct": 73.6,
+      "fair_odds": 1.36,
+      "reliability_score": 70,
+      "market_label": "France Win or Draw"
+    },
+    "confidence_score_at_prediction": 78,
     "high_odds_pick": {
       "market": "Over 2.5 Goals",
-      "probability_pct": 49.6,
-      "fair_odds": 2.02,
-      "reliability_score": 84,
+      "probability_pct": 49.2,
+      "fair_odds": 2.03,
+      "reliability_score": 70,
       "market_label": "Over 2.5 Goals"
+    },
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528949",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Romania",
+    "away_team": "Sweden",
+    "home_team_id": "aps:774",
+    "away_team_id": "aps:5",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 76.6,
+      "fair_odds": 1.31,
+      "reliability_score": 64,
+      "market_label": "Romania Win or Sweden Win"
+    },
+    "confidence_score_at_prediction": 64,
+    "high_odds_pick": null,
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528948",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Bosnia & Herzegovina",
+    "away_team": "Poland",
+    "home_team_id": "aps:1113",
+    "away_team_id": "aps:24",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 72.0,
+      "fair_odds": 1.39,
+      "reliability_score": 67,
+      "market_label": "Bosnia & Herzegovina Win or Poland Win"
+    },
+    "confidence_score_at_prediction": 69,
+    "high_odds_pick": null,
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1528947",
+    "competition": "UEFA Nations League (World)",
+    "home_team": "Northern Ireland",
+    "away_team": "Georgia",
+    "home_team_id": "aps:771",
+    "away_team_id": "aps:1104",
+    "season": 2026,
+    "match_date": "2026-10-05T18:45:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Draw)",
+      "probability_pct": 75.5,
+      "fair_odds": 1.32,
+      "reliability_score": 60,
+      "market_label": "Northern Ireland Win or Draw"
+    },
+    "confidence_score_at_prediction": 54,
+    "high_odds_pick": null,
+    "correctscore_pick": null,
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1493157",
+    "competition": "Liga Profesional Argentina (Argentina)",
+    "home_team": "Deportivo Riestra",
+    "away_team": "Central Cordoba de Santiago",
+    "home_team_id": "aps:476",
+    "away_team_id": "aps:1065",
+    "season": 2026,
+    "match_date": "2026-10-05T19:45:00+00:00",
+    "best_pick": {
+      "market": "Both Teams to Score - No",
+      "probability_pct": 68.8,
+      "fair_odds": 1.45,
+      "reliability_score": 78,
+      "market_label": "BTTS - No"
+    },
+    "confidence_score_at_prediction": 96,
+    "high_odds_pick": null,
+    "correctscore_pick": {
+      "score": "0-0",
+      "probability_pct": 21.2,
+      "fair_odds": 4.72
+    },
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1493166",
+    "competition": "Liga Profesional Argentina (Argentina)",
+    "home_team": "Velez Sarsfield",
+    "away_team": "Platense",
+    "home_team_id": "aps:438",
+    "away_team_id": "aps:1064",
+    "season": 2026,
+    "match_date": "2026-10-05T22:00:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Draw/Away)",
+      "probability_pct": 66.0,
+      "fair_odds": 1.52,
+      "reliability_score": 87,
+      "market_label": "Draw or Platense Win"
+    },
+    "confidence_score_at_prediction": 96,
+    "high_odds_pick": {
+      "market": "Draw",
+      "probability_pct": 43.4,
+      "fair_odds": 2.3,
+      "reliability_score": 87,
+      "market_label": "Draw"
+    },
+    "correctscore_pick": {
+      "score": "0-0",
+      "probability_pct": 30.3,
+      "fair_odds": 3.3
+    },
+    "status": "pending",
+    "actual_score": null,
+    "checked_at": null
+  },
+  {
+    "match_id": "aps:1493158",
+    "competition": "Liga Profesional Argentina (Argentina)",
+    "home_team": "Estudiantes L.P.",
+    "away_team": "Gimnasia M.",
+    "home_team_id": "aps:450",
+    "away_team_id": "aps:1066",
+    "season": 2026,
+    "match_date": "2026-10-05T22:00:00+00:00",
+    "best_pick": {
+      "market": "Double Chance (Home/Away)",
+      "probability_pct": 70.4,
+      "fair_odds": 1.42,
+      "reliability_score": 72,
+      "market_label": "Estudiantes L.P. Win or Gimnasia M. Win"
+    },
+    "confidence_score_at_prediction": 84,
+    "high_odds_pick": {
+      "market": "Both Teams to Score - No",
+      "probability_pct": 47.5,
+      "fair_odds": 2.11,
+      "reliability_score": 72,
+      "market_label": "BTTS - No"
     },
     "correctscore_pick": null,
     "status": "pending",
